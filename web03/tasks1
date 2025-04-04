@@ -1,0 +1,5 @@
+md "tmp/.tasks/bash/one/"
+cd tmp
+dir
+move ".tasks/bash/one" ".tasks"
+rd /s ".tasks/bash"

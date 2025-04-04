@@ -1,0 +1,55 @@
+{
+  'response': {
+    'GeoObjectCollection': {
+      'metaDataProperty': {
+        'GeocoderResponseMetaData': {
+          'request': 'Астралия',
+          'results': '10',
+          'suggest': 'А<fix>в</fix>стралия',
+          'found': '1'
+        }
+      },
+      'featureMember': [
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'other',
+                'text': 'Австралия',
+                'kind': 'country',
+                'Address': {
+                  'country_code': 'AU',
+                  'formatted': 'Австралия',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Австралия'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Австралия',
+                    'CountryNameCode': 'AU',
+                    'CountryName': 'Австралия'
+                  }
+                }
+              }
+            },
+            'name': 'Австралия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '73.053775 -54.974623',
+                'upperCorner': '159.274309 -9.194191'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=CgoyMjM5MzQzODE4EglBdXN0cmFsaWEiCg2fywVDFeaOzcE,',
+            'Point': {
+              'pos': '133.795393 -25.694776'
+            }
+          }
+        }
+      ]
+    }
+  }
+}
