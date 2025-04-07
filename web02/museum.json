@@ -1,0 +1,167 @@
+{
+  'response': {
+    'GeoObjectCollection': {
+      'metaDataProperty': {
+        'GeocoderResponseMetaData': {
+          'request': 'Исторический музей Москва красная площадь 1',
+          'results': '10',
+          'found': '2'
+        }
+      },
+      'featureMember': [
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'exact',
+                'text': 'Россия, Москва, Красная площадь, 1',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, Красная площадь, 1',
+                  'postal_code': '125009',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'Красная площадь'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '1'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, Красная площадь, 1',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'Красная площадь',
+                          'Premise': {
+                            'PremiseNumber': '1',
+                            'PostalCode': {
+                              'PostalCodeNumber': '125009'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'Красная площадь, 1',
+            'description': 'Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.613674 55.752931',
+                'upperCorner': '37.621884 55.757561'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=Cgg1NzkzNzMyNxI80KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINCa0YDQsNGB0L3QsNGPINC_0LvQvtGJ0LDQtNGMLCAxIgoNm3gWQhVfBV9C',
+            'Point': {
+              'pos': '37.617779 55.755246'
+            }
+          }
+        },
+        {
+          'GeoObject': {
+            'metaDataProperty': {
+              'GeocoderMetaData': {
+                'precision': 'number',
+                'text': 'Россия, Москва, проезд Воскресенские Ворота, 1А',
+                'kind': 'house',
+                'Address': {
+                  'country_code': 'RU',
+                  'formatted': 'Россия, Москва, проезд Воскресенские Ворота, 1А',
+                  'postal_code': '109012',
+                  'Components': [
+                    {
+                      'kind': 'country',
+                      'name': 'Россия'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Центральный федеральный округ'
+                    },
+                    {
+                      'kind': 'province',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'locality',
+                      'name': 'Москва'
+                    },
+                    {
+                      'kind': 'street',
+                      'name': 'проезд Воскресенские Ворота'
+                    },
+                    {
+                      'kind': 'house',
+                      'name': '1А'
+                    }
+                  ]
+                },
+                'AddressDetails': {
+                  'Country': {
+                    'AddressLine': 'Россия, Москва, проезд Воскресенские Ворота, 1А',
+                    'CountryNameCode': 'RU',
+                    'CountryName': 'Россия',
+                    'AdministrativeArea': {
+                      'AdministrativeAreaName': 'Москва',
+                      'Locality': {
+                        'LocalityName': 'Москва',
+                        'Thoroughfare': {
+                          'ThoroughfareName': 'проезд Воскресенские Ворота',
+                          'Premise': {
+                            'PremiseNumber': '1А',
+                            'PostalCode': {
+                              'PostalCodeNumber': '109012'
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            'name': 'проезд Воскресенские Ворота, 1А',
+            'description': 'Москва, Россия',
+            'boundedBy': {
+              'Envelope': {
+                'lowerCorner': '37.613979 55.753306',
+                'upperCorner': '37.62219 55.757936'
+              }
+            },
+            'uri': 'ymapsbm1://geo?data=Cgg1NjcxNjcyMRJV0KDQvtGB0YHQuNGPLCDQnNC-0YHQutCy0LAsINC_0YDQvtC10LfQtCDQktC-0YHQutGA0LXRgdC10L3RgdC60LjQtSDQktC-0YDQvtGC0LAsIDHQkCIKDex4FkIVwgVfQg,,',
+            'Point': {
+              'pos': '37.618084 55.755621'
+            }
+          }
+        }
+      ]
+    }
+  }
+}
